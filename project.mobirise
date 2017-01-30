@@ -138,7 +138,7 @@
           "_name": "header2",
           "_anchor": "header2-1x",
           "_params": {
-            "imageSize": "40",
+            "imageSize": "30",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
