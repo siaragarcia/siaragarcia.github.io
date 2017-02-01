@@ -21,8 +21,8 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 83,
-    "versionPublish": "3.10.7",
+    "uniqCompNum": 84,
+    "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -38,6 +38,35 @@
         "order": 1
       },
       "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-2b",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "Welcome...",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
         {
           "_inherit": "menu",
           "_tags": [
@@ -132,58 +161,6 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobeh photoshoppeh\">ADOBE Photoshop</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"word\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint\">Powerpoint</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator\">ADOBE Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate\">ADOBE Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INDUSTRY CERTIFICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photosherp\">ADOBE Photoshop</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"References\">REFERENCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"contact me\">CONTACT</a></li>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header2",
-          "_anchor": "header2-1x",
-          "_params": {
-            "imageSize": "30",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.5",
-            "overlayColor": "#000000",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/snapchat-1400x1635.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "A Little Bit About Me!",
-          "text": "If you go about 8 years back, I was making up stories that no one my age unterstood. As time passed, I got into drawing to help people visualize my narratives and mainly for fun. Once I was introduced to a phone and computer, I began typing up some of my stories and editing with digital apps available then. Infatuated with digital media and art, I looked up schools that were in the area and if they had any programs. Since it was my home school anyway, I applied for Miami Arts Studio. The letter of acceptance was very thrilling to receive, and to me, it set me on a course for learning and even more growth.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
           "_inherit": "features4",
           "_tags": [
             "Theme"
@@ -215,7 +192,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": 4,
+            "columns": "5",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
@@ -287,18 +264,19 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
+              "linkInNewWindow": false,
+              "name": "image-gallery",
+              "family": "MobiriseIcons",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#fff",
-              "family": "et-line"
+              "color": "#fff"
             }
           },
-          "title5": "Trendy Website Blocks",
+          "title5": "Forensic Photographer",
           "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "caption5": "Besides taking landscape pictures or portaits, I'd like to become a forensic photographer, documenting evidence for investigators.",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "iconFont": {
@@ -360,9 +338,9 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text1": "Ever since I was in grade school, I enjoyed working on my computer. Before doing an assignment, I used to ask my teachers if i could make the project into a PowerPoint presentation or type up the esaay to turn it in. Now, virtually every assignment I turn in is via computer and keyboard--which, don't get me wrong, really excites me. &nbsp;My interests in kindergarten weren't very orthodox compared to my peers. I loved Star Wars, and still do! Even though our technology isn't as advanced as it is in the films, the movies opened my eyes to the fact that we had great tech!",
-          "text2": "<p><i>Shortly after realizing that, I had gotten a smart phone. Almost as soon as i got it, I downloaded any apps that had to do with editing(at the time, only the free ones). I kept editing pictures, blending them to make two completely different pictures look like they belong in one, and drawing on my phone too(even though it looked bad)! A while ago, I discovered anime and manga which I fell in love with. The art style is my favorite, the stories and plot twists are surprising(depending on which you watch) so then i started drawing. Digital drawing and traditional are both passions of mine, and as programs get updates and new computers and drawing tablets are released, I wlill continue to draw.&nbsp;</i></p>",
-          "text3": "When I was just 2 years old, I would watch the news, whatever it was, in English and Spanish. &nbsp;After turning 3, I could speak the basics of both languages. Most adults say television rots your brains, but it actually taught me to read and speak. &nbsp;After learning how to read, I developed a love for literature and poetry, and kept finding new ways to write. To this day, I write stories and hope to write a screenplay or a novel one day. They say that writing goes hand in hand with drawing, andd that to be skilled at both would allow oyu to show others exactly how you visioned your characters. That is my goal, to create a story in writing and show others my vision through drawings."
+          "text1": "Ever since I was in grade school, I enjoyed working on my computer. Before doing an assignment, I used to ask my teachers if I could make the project into a PowerPoint presentation or type up the essay to turn it in. Now, virtually every assignment I turn in is via computer and keyboard--which, don't get me wrong, really excites me. &nbsp;My interests in kindergarten weren't very orthodox compared to my peers. I loved Star Wars, and still do! Even though our technology isn't as advanced as it is in the films, the movies opened my eyes to the fact that we had great tech!",
+          "text2": "<p><i>Shortly after realizing that, I had gotten a smart phone. Almost as soon as i got it, I downloaded any apps that had to do with editing(at the time, only the free ones). I kept editing pictures, blending them to make two completely different pictures look like they belong in one, and drawing on my phone too(even though it looked bad)! A while ago, I discovered anime and manga which I fell in love with. The art style is my favorite, the stories and plot twists are surprising (depending on which you watch) so then i started drawing. Digital drawing and traditional drawing are both passions of mine, and as programs get updates and new computers and drawing tablets are released, I wlill continue to draw.&nbsp;</i></p>",
+          "text3": "When I was just 2 years old, I would watch the news, whatever it was, in English and Spanish. &nbsp;After turning 3, I could speak the basics of both languages. Most adults say television rots your brains, but it actually taught me to read and speak. &nbsp;After learning how to read, I developed a love for literature and poetry, and kept finding new ways to write. To this day, I write stories and hope to write a screenplay or a novel one day. They say that writing goes hand in hand with drawing, and that to be skilled at both would allow you to show others exactly how you visioned your characters. That is my goal, to create a story in writing and show others my vision through drawings."
         },
         {
           "_tags": [
