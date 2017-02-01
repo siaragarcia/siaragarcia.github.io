@@ -478,6 +478,9 @@ h6,
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #000000!important;
 }
+#header2-2d .mbr-section-title {
+  font-size: 72px;
+}
 #features7-1w .card-subtitle {
   color: #bcbcbc;
 }
