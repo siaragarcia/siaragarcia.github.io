@@ -476,10 +476,18 @@ h6,
 }
 #ext_menu-0 .link[aria-expanded="true"],
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
-  color: #000000!important;
+  color: #999999!important;
 }
 #header2-2d .mbr-section-title {
   font-size: 72px;
+}
+#msg-box6-2g .mbr-section-title,
+#msg-box6-2g .lead p {
+  color: #fff;
+}
+#header3-2e .mbr-section-title,
+#header3-2e .mbr-section-subtitle {
+  text-align: center;
 }
 #features7-1w .card-subtitle {
   color: #bcbcbc;
