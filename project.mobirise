@@ -613,7 +613,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#999999!important"
             }
           },
           "_name": "ext.menu",
@@ -860,7 +860,7 @@
     },
     "random gallery": {
       "settings": {
-        "title": "My obby Update",
+        "title": "My Hobby Update",
         "meta_descr": "Web Page Maker Description",
         "order": 8
       },
@@ -954,7 +954,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#999999!important"
             }
           },
           "_name": "ext.menu",
@@ -1133,7 +1133,7 @@
     },
     "contact me": {
       "settings": {
-        "title": "Website Builder Title",
+        "title": "Contqact Page",
         "meta_descr": "Website Builder Description",
         "order": 9
       },
@@ -1190,7 +1190,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#999999!important"
             }
           },
           "_name": "ext.menu",
@@ -1462,7 +1462,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#999999!important"
             }
           },
           "_name": "ext.menu",
@@ -2009,7 +2009,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#999999!important"
             }
           },
           "_name": "ext.menu",
@@ -2278,7 +2278,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#999999!important"
             }
           },
           "_name": "ext.menu",
@@ -2791,7 +2791,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#999999!important"
             }
           },
           "_name": "ext.menu",
@@ -3093,7 +3093,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#999999!important"
             }
           },
           "_name": "ext.menu",
