@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "portfolio",
-    "currentPage": "random gallery",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 101,
+    "uniqCompNum": 102,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -190,6 +190,43 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
+          "_inherit": "content5",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "text-align": "right",
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content8",
+          "_anchor": "content8-2t",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "",
+          "caption": "<p>.</p>"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -209,8 +246,8 @@
           "_name": "msg-box1",
           "_anchor": "msg-box1-r",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -230,7 +267,12 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"random gallery\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>",
           "text": "",
-          "title": "See my bio for more info on my past:"
+          "title": "See my bio for more info on my past:",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_styles": {
@@ -244,8 +286,8 @@
           "_name": "header3",
           "_anchor": "header3-2s",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgColor": "#fff",
             "showMeta": true
           },
@@ -260,7 +302,7 @@
           "_name": "gallery4",
           "_params": {
             "paddingTop": 0,
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "images": [
               {
                 "tags": "Redraws",
@@ -2741,7 +2783,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery-albumm-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery-albumm-2000x20008.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-albumm-2000x200012.jpg",
                 "caption": "This is an album, supposedly made by Guns N' Roses but created by me.",
                 "active": true
               },
@@ -2771,7 +2813,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery-batman-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery-batman-2000x20009.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-batman-2000x200013.jpg",
                 "caption": "A Batman logo redraw.",
                 "active": false
               },
@@ -2801,7 +2843,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery-composite-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery-composite-2000x200010.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-composite-2000x200014.jpg",
                 "caption": "This is a Photoshop drawing of the Avengers using the Pen Tool.",
                 "active": false
               },
@@ -2811,7 +2853,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery-brochure-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery-brochure-2000x200011.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-brochure-2000x200015.jpg",
                 "caption": "A brochure for a NASA Computer Engineer job, which was an entry for a Youth Fair contest.",
                 "active": false
               },
