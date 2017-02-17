@@ -206,7 +206,7 @@
           "_name": "content8",
           "_anchor": "content8-2t",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "4",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
@@ -214,7 +214,9 @@
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/d5lX1sOSinM?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,
@@ -2783,7 +2785,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery-albumm-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery-albumm-2000x200012.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-albumm-2000x200016.jpg",
                 "caption": "This is an album, supposedly made by Guns N' Roses but created by me.",
                 "active": true
               },
@@ -2813,7 +2815,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery-batman-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery-batman-2000x200013.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-batman-2000x200017.jpg",
                 "caption": "A Batman logo redraw.",
                 "active": false
               },
@@ -2843,7 +2845,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery-composite-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery-composite-2000x200014.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-composite-2000x200018.jpg",
                 "caption": "This is a Photoshop drawing of the Avengers using the Pen Tool.",
                 "active": false
               },
@@ -2853,7 +2855,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery-brochure-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery-brochure-2000x200015.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-brochure-2000x200019.jpg",
                 "caption": "A brochure for a NASA Computer Engineer job, which was an entry for a Youth Fair contest.",
                 "active": false
               },
