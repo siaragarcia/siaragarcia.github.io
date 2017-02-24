@@ -497,12 +497,9 @@ h6,
 #header3-2s .mbr-section-subtitle {
   text-align: center;
 }
-#social-buttons3-s .mbr-section-title,
-#social-buttons3-s .btn-social {
-  color: #fff;
-}
-#social-buttons3-s .mbr-section-title {
-  color: #000000;
+#social-buttons2-2w .mbr-section-title,
+#social-buttons2-2w .btn-social {
+  color: #232323;
 }
 #contacts4-2k UL {
   font-size: 8px;

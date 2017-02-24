@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "portfolio",
-    "currentPage": "random gallery",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 104,
+    "uniqCompNum": 105,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -246,6 +246,11 @@
             "Theme"
           ],
           "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "msg-box1-r",
           "_params": {
             "paddingTop": "2",
@@ -269,12 +274,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"random gallery\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>",
           "text": "",
-          "title": "See my bio for more info on my past:",
-          "_styles": {
-            "H3": {
-              "text-align": "center"
-            }
-          }
+          "title": "See my bio for more info on my past:"
         },
         {
           "_styles": {
@@ -360,38 +360,30 @@
           "allItem": "All"
         },
         {
-          "_inherit": "social-buttons1",
           "_styles": {
             ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "color": "#000000"
+              "color": "#232323"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "social-buttons3",
-          "_anchor": "social-buttons3-s",
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-2w",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/2017-02-12-14-32-35-3977-2000x1125.jpg",
-            "bgColor": "#ffffff",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333.jpg",
+            "bgColor": "#fff",
             "bgColorRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#c1c1c1",
-            "facebook": true,
-            "twitter": true,
-            "google": true,
-            "vkontakte": false,
-            "odnoklassniki": false
+            "overlayColor": "#222"
           },
-          "text": "SHARE THIS PAGE!"
+          "text": "FOLLOW US",
+          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UC0hfkri9m5n3IWVDODiOj6w\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
         },
         {
           "_tags": [
@@ -2945,7 +2937,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery-albumm-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery-albumm-2000x200024.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-albumm-2000x20004.jpg",
                 "caption": "This is an album, supposedly made by Guns N' Roses but created by me.",
                 "active": true
               },
@@ -2975,7 +2967,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery-batman-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery-batman-2000x200025.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-batman-2000x20005.jpg",
                 "caption": "A Batman logo redraw.",
                 "active": false
               },
@@ -3005,7 +2997,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery-composite-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery-composite-2000x200026.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-composite-2000x20006.jpg",
                 "caption": "This is a Photoshop drawing of the Avengers using the Pen Tool.",
                 "active": false
               },
@@ -3015,7 +3007,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery-brochure-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery-brochure-2000x200027.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-brochure-2000x20007.jpg",
                 "caption": "A brochure for a NASA Computer Engineer job, which was an entry for a Youth Fair contest.",
                 "active": false
               },
