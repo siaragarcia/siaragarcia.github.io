@@ -21,8 +21,8 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 105,
-    "versionPublish": "3.10.7",
+    "uniqCompNum": 106,
+    "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -30,7 +30,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Siara Garcia",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -363,27 +363,30 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#232323"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "social-buttons2",
-          "_anchor": "social-buttons2-2w",
+          "_anchor": "social-buttons2-2x",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1125.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#878787"
           },
           "text": "FOLLOW US",
-          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UC0hfkri9m5n3IWVDODiOj6w\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UC0hfkri9m5n3IWVDODiOj6w\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a>    "
         },
         {
           "_tags": [
@@ -468,7 +471,7 @@
     },
     "random gallery": {
       "settings": {
-        "title": "My Hobby Update",
+        "title": "Siara Garcia",
         "meta_descr": "Web Page Maker Description",
         "order": 8
       },
@@ -913,7 +916,7 @@
     "word": {
       "settings": {
         "order": 3,
-        "title": "Microsoft Word Pieces"
+        "title": "Siara Garcia"
       },
       "components": [
         {
@@ -1257,7 +1260,7 @@
     "page5.html": {
       "settings": {
         "order": 7,
-        "title": "123D Models and Works"
+        "title": "Siara Garcia"
       },
       "components": [
         {
@@ -1508,7 +1511,7 @@
     "illustrator": {
       "settings": {
         "order": 4,
-        "title": "Adobe Illustrator Works"
+        "title": "Siara Garcia"
       },
       "components": [
         {
@@ -1852,7 +1855,7 @@
     "animate": {
       "settings": {
         "order": 5,
-        "title": "Adobe Animate Works"
+        "title": "Siara Garcia"
       },
       "components": [
         {
@@ -2196,7 +2199,7 @@
     "Powerpoint": {
       "settings": {
         "order": 6,
-        "title": "Microsoft Powerpoint Works"
+        "title": "Siara Garcia"
       },
       "components": [
         {
@@ -2447,7 +2450,7 @@
     "References": {
       "settings": {
         "order": 2,
-        "title": "References"
+        "title": "Siara Garcia"
       },
       "components": [
         {
@@ -2791,7 +2794,7 @@
     "adobe photoshop": {
       "settings": {
         "order": 2,
-        "title": "Adobe Photoshop Works"
+        "title": "Siara Garcia"
       },
       "components": [
         {
