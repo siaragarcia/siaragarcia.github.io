@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 106,
+    "uniqCompNum": 111,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -129,7 +129,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"random gallery\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobeh photoshoppeh\">ADOBE Photoshop</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://siaragarcia.github.io/documents/13117.pdf\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint\">Powerpoint</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator\">ADOBE Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate\">ADOBE Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INDUSTRY CERTIFICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photosherp\">ADOBE Photoshop</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"References\">REFERENCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"contact me\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"random gallery\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobeh photoshoppeh\">ADOBE Photoshop</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://siaragarcia.github.io/documents/13117.pdf\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint\">Powerpoint</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator\">ADOBE Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate\">ADOBE Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INDUSTRY CERTIFICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photosherp\">ADOBE Photoshop</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"References\">REFERENCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\">PERSONAL WORKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"contact me\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -237,7 +237,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#ffffff"
+            "bgColor": "#efefef"
           },
           "text": "<blockquote><p><i>&nbsp;Virtue and vice are concepts invented by human beings, words for a morality which human beings arbitrarily devised.</i></p><p><i><br></i></p><p><i>— Osamu Dazai</i></p></blockquote>"
         },
@@ -258,7 +258,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -290,7 +290,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "showMeta": true
           },
           "title": "My Best So Far...",
@@ -350,7 +350,7 @@
             "spacing": "3",
             "showText": false,
             "filter": true,
-            "bgColor": "fff",
+            "bgColor": "#efefef",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
@@ -358,6 +358,44 @@
           "_anchor": "gallery4-2r",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#232323"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-32",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\">VIEW</a>",
+          "title": "SEE MY PERSONAL WORKS",
+          "text": "These are pieces done out of school--hobbies and dabbles in design, video or picture editing."
         },
         {
           "_styles": {
@@ -404,8 +442,8 @@
           },
           "_anchor": "contacts4-2k",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -415,7 +453,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>Miami, Florida<br>(Please email me first for this information)<br><br><br><strong>Contacts</strong><br>\nEmail: sgarcia@miamiartsstudio.com<br>\nPhone: +1 (305) 775-1159<br>",
+          "text1": "<strong>Address</strong><br>Miami, Florida<br>(Please email me first for more information)<br><br><br><strong>Contacts</strong><br>\nEmail: sgarcia@miamiartsstudio.com<br>\nPhone: +1 (305) 775-1159<br>",
           "text2": "<ul class=\"mbr-contacts__list\"></ul>",
           "form": {
             "title": "MESSAGE",
@@ -833,6 +871,44 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#232323"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-31",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\">VIEW</a>",
+          "title": "SEE MY PERSONAL WORKS",
+          "text": "These are pieces done out of school--hobbies and dabbles in design, video or picture editing."
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -848,8 +924,8 @@
           },
           "_anchor": "contacts4-2k",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -859,7 +935,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>Miami, Florida<br>(Please email me first for this information)<br><br><br><strong>Contacts</strong><br>\nEmail: sgarcia@miamiartsstudio.com<br>\nPhone: +1 (305) 775-1159<br>",
+          "text1": "<strong>Address</strong><br>Miami, Florida<br>(Please email me first for more information)<br><br><br><strong>Contacts</strong><br>\nEmail: sgarcia@miamiartsstudio.com<br>\nPhone: +1 (305) 775-1159<br>",
           "text2": "<ul class=\"mbr-contacts__list\"></ul>",
           "form": {
             "title": "MESSAGE",
@@ -2940,7 +3016,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery-albumm-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery-albumm-2000x20008.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-albumm-2000x20000.jpg",
                 "caption": "This is an album, supposedly made by Guns N' Roses but created by me.",
                 "active": true
               },
@@ -2970,7 +3046,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery-batman-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery-batman-2000x20009.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-batman-2000x20001.jpg",
                 "caption": "A Batman logo redraw.",
                 "active": false
               },
@@ -3000,7 +3076,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery-composite-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery-composite-2000x200010.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-composite-2000x20002.jpg",
                 "caption": "This is a Photoshop drawing of the Avengers using the Pen Tool.",
                 "active": false
               },
@@ -3010,7 +3086,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery-brochure-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery-brochure-2000x200011.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-brochure-2000x20003.jpg",
                 "caption": "A brochure for a NASA Computer Engineer job, which was an entry for a Youth Fair contest.",
                 "active": false
               },
@@ -3136,6 +3212,186 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-2u",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Siara Garcia."
+        }
+      ]
+    },
+    "page9.html": {
+      "settings": {
+        "title": "S~G",
+        "meta_descr": "Web Page Maker Description"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#999999!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2y",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/untitled-2-384x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"random gallery\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobeh photoshoppeh\">ADOBE Photoshop</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://siaragarcia.github.io/documents/13117.pdf\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint\">Powerpoint</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator\">ADOBE Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate\">ADOBE Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INDUSTRY CERTIFICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photosherp\">ADOBE Photoshop</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"References\">REFERENCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\">PERSONAL WORKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"contact me\">CONTACT</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "UL": {
+              "font-size": "8px",
+              "text-align": "right"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "contacts4-2z",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<strong>Address</strong><br>Miami, Florida<br>(Please email me first for more information)<br><br><br><strong>Contacts</strong><br>\nEmail: sgarcia@miamiartsstudio.com<br>\nPhone: +1 (305) 775-1159<br>",
+          "text2": "<ul class=\"mbr-contacts__list\"></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "sgarcia@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for contacting me!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact Me</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-30",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
