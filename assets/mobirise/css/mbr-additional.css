@@ -1116,6 +1116,10 @@ h6,
 #ext_menu-2y .dropdown-item[aria-expanded="true"] {
   color: #999999!important;
 }
+#header3-34 .mbr-section-title,
+#header3-34 .mbr-section-subtitle {
+  text-align: center;
+}
 #contacts4-2z UL {
   font-size: 8px;
   text-align: right;
