@@ -1266,6 +1266,10 @@ h6,
 #header3-39 H3 {
   color: #232323;
 }
+#header3-3f .mbr-section-title,
+#header3-3f .mbr-section-subtitle {
+  text-align: center;
+}
 #contacts4-2z UL {
   font-size: 8px;
   text-align: right;
