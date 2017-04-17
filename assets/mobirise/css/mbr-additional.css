@@ -914,6 +914,10 @@ h6,
 #msg-box8-1s p {
   color: #fff;
 }
+#header3-3k .mbr-section-title,
+#header3-3k .mbr-section-subtitle {
+  text-align: center;
+}
 #social-buttons3-1u .mbr-section-title,
 #social-buttons3-1u .btn-social {
   color: #fff;
