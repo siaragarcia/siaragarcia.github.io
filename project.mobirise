@@ -3928,8 +3928,8 @@
               {
                 "tags": "Animated",
                 "playVideo": true,
-                "videoUrl": "https://youtu.be/5GzGcz5IQUQ",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-25-11-28-21.jpg",
+                "videoUrl": "https://www.youtube.com/watch?v=aOMEQBolQBw",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-05-05-12-12-26.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "Type caption here",
