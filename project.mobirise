@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "portfolio",
-    "currentPage": "premiere",
+    "currentPage": "page9.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 131,
+    "uniqCompNum": 132,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -129,7 +129,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"random gallery\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobeh photoshoppeh\">ADOBE Photoshop</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://siaragarcia.github.io/documents/13117.pdf\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint\">Powerpoint</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator\">ADOBE Illustrator</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"animate\" data-toggle=\"dropdown-submenu\">ADOBE Premiere</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/watch?v=bkz2dsmzl9Q\">Believer - Imagine Dragons Recreation Video</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INDUSTRY CERTIFICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photosherp\">ADOBE Photoshop</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"References\">REFERENCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\">PERSONAL WORKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"contact me\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"random gallery\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobeh photoshoppeh\">ADOBE Photoshop</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://siaragarcia.github.io/documents/13117.pdf\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint\">Powerpoint</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator\">ADOBE Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate\">ADOBE Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INDUSTRY CERTIFICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photosherp\">ADOBE Photoshop</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"References\">REFERENCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\">PERSONAL WORKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"contact me\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -1100,7 +1100,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"random gallery\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobeh photoshoppeh\">ADOBE Photoshop</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://siaragarcia.github.io/documents/13117.pdf\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint\">Powerpoint</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator\">ADOBE Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate\">ADOBE Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INDUSTRY CERTIFICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photosherp\">ADOBE Photoshop</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"References\">REFERENCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\">PERSONAL WORKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"contact me\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"random gallery\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobeh photoshoppeh\">ADOBE Photoshop</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://siaragarcia.github.io/documents/13117.pdf\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint\">Powerpoint</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator\">ADOBE Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate\">ADOBE Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INDUSTRY CERTIFICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photosherp\">ADOBE Photoshop</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"References\">REFERENCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\">PERSONAL WORKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"contact me\">CONTACT</a></li>"
         },
         {
           "_styles": {
@@ -1217,7 +1217,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               }
             ],
             "spacing": 0,
@@ -2820,7 +2821,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"random gallery\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobeh photoshoppeh\">ADOBE Photoshop</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://siaragarcia.github.io/documents/13117.pdf\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint\">Powerpoint</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator\">ADOBE Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate\">ADOBE Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INDUSTRY CERTIFICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photosherp\">ADOBE Photoshop</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"References\">REFERENCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\">PERSONAL WORKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"contact me\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"random gallery\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobeh photoshoppeh\">ADOBE Photoshop</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://siaragarcia.github.io/documents/13117.pdf\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint\">Powerpoint</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator\">ADOBE Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate\">ADOBE Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INDUSTRY CERTIFICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photosherp\">ADOBE Photoshop</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"References\">REFERENCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\">PERSONAL WORKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"contact me\">CONTACT</a></li>"
         },
         {
           "_styles": {
@@ -2873,8 +2874,8 @@
             "bgColor": "#efefef",
             "showMeta": true
           },
-          "title": "My Newest Piece, in Progress!",
-          "meta": "This is an ongoing project, a reproduction of 'The Girl with a Pearl Earring', and here is my periodical update...."
+          "title": "This Year...",
+          "meta": "A compilation of my projects done this school year, excluding the newst one."
         },
         {
           "_inherit": "gallery1",
@@ -2883,7 +2884,7 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "0",
             "paddingBottom": 1,
             "images": [
               {
@@ -2891,8 +2892,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/siara-garcia-14-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/siara-garcia-14-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8888888-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/8888888-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": true
               },
@@ -2901,8 +2902,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/siara-garcia-16-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/siara-garcia-16-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery-logos-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-logos-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2911,8 +2912,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/siara-garcia-13-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/siara-garcia-13-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery-albumm-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-albumm-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2921,8 +2922,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/siara-garcia-12-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/siara-garcia-12-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/5-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2931,113 +2932,13 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/siara-garcia-14-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/siara-garcia-14-2000x2000.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/siara-garcia-11-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/siara-garcia-11-2000x2000.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/siara-garcia-10-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/siara-garcia-10-2000x2000.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/siara-garcia-9-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/siara-garcia-9-2000x2000.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/siara-garcia-8-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/siara-garcia-8-2000x2000.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/siara-garcia-6-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/siara-garcia-6-2000x2000.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/siara-garcia-5-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/siara-garcia-5-2000x2000.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/siara-garcia-3-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/siara-garcia-3-2000x2000.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/siara-garcia-14-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/siara-garcia-14-2000x2000.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/siara-garcia-2-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/siara-garcia-2-2000x2000.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/siara-garcia-1-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/siara-garcia-1-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery-composite-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-composite-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               }
             ],
-            "spacing": "1",
+            "spacing": 1,
             "showText": false,
             "filter": false,
             "bgColor": "#efefef",
@@ -3045,7 +2946,7 @@
             "fullWidth": true,
             "showBullets": true
           },
-          "_anchor": "gallery3-37",
+          "_anchor": "gallery3-3n",
           "articleLayout": false,
           "allItem": "All"
         },
@@ -3064,9 +2965,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery-albumm-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery-albumm-2000x20004.jpg",
-                "caption": "This is an album, supposedly made by Guns N' Roses but created by me.",
+                "thumb": "@PROJECT_PATH@/assets/images/8888888-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/8888888-2000x2000.jpg",
+                "caption": "This is a graphic for opposing gun violence.",
                 "active": true
               },
               {
@@ -3074,8 +2975,38 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8888888-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/8888888-2000x2000.jpg",
+                "caption": "This is a graphic for opposing gun violence.",
+                "active": false
+              },
+              {
+                "tags": "2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/5-2000x2000.jpg",
+                "caption": "This is a recreation of the painting, 'The Girl with a Pearl Earring' by Vermeer.",
+                "active": false
+              },
+              {
+                "tags": "2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery-albumm-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-albumm-2000x20000.jpg",
+                "caption": "This is an album, supposedly made by Guns N' Roses but created by me.",
+                "active": false
+              },
+              {
+                "tags": "2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery-logos-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery-logos-2000x2000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-logos-2000x20001.jpg",
                 "caption": "These are the Avengers' logos.",
                 "active": false
               },
@@ -3095,7 +3026,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery-batman-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery-batman-2000x20005.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-batman-2000x20002.jpg",
                 "caption": "A Batman logo redraw.",
                 "active": false
               },
@@ -3125,7 +3056,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery-composite-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery-composite-2000x20006.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-composite-2000x20003.jpg",
                 "caption": "This is a Photoshop drawing of the Avengers using the Pen Tool.",
                 "active": false
               },
@@ -3135,7 +3066,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery-brochure-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery-brochure-2000x20007.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery-brochure-2000x20004.jpg",
                 "caption": "A brochure for a NASA Computer Engineer job, which was an entry for a Youth Fair contest.",
                 "active": false
               },
@@ -3438,7 +3369,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/O7NIPL_ZL30",
+              "src": "https://youtu.be/9o9gDObhgrM",
               "aspectratio": "16:9",
               "autoplay": "on",
               "loop": "on"
@@ -3489,22 +3420,22 @@
               {
                 "tags": "Animated",
                 "playVideo": true,
+                "videoUrl": "https://youtu.be/9o9gDObhgrM",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-06-05-11-37-43.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
                 "videoUrl": "https://youtu.be/O7NIPL_ZL30",
                 "videoPreview": "@PROJECT_PATH@/assets/images/2017-03-18-15-50-05.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "Type caption here",
                 "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=6REehgDDfTs",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-03-18-15-50-43.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here",
-                "active": true
               }
             ],
             "spacing": "1",
@@ -3806,7 +3737,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"random gallery\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobeh photoshoppeh\">ADOBE Photoshop</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://siaragarcia.github.io/documents/13117.pdf\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint\">Powerpoint</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator\">ADOBE Illustrator</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"animate\" data-toggle=\"dropdown-submenu\">ADOBE Premiere</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/watch?v=bkz2dsmzl9Q\">Believer - Imagine Dragons Recreation Video</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INDUSTRY CERTIFICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photosherp\">ADOBE Photoshop</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"References\">REFERENCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\">PERSONAL WORKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"contact me\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"random gallery\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobeh photoshoppeh\">ADOBE Photoshop</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://siaragarcia.github.io/documents/13117.pdf\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint\">Powerpoint</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator\">ADOBE Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate\">ADOBE Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INDUSTRY CERTIFICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photosherp\">ADOBE Photoshop</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"References\">REFERENCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\">PERSONAL WORKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"contact me\">CONTACT</a></li>"
         },
         {
           "_styles": {
@@ -3875,12 +3806,22 @@
               {
                 "tags": "Animated",
                 "playVideo": true,
+                "videoUrl": "https://youtu.be/kbDQ9DQI-0Y",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-06-05-11-36-07.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "An entry for a school festival.",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
                 "videoUrl": "https://youtu.be/bkz2dsmzl9Q",
                 "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-17-11-58-06.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "An entry for the Adobe Make The Cut competition.",
-                "active": true
+                "active": false
               }
             ],
             "spacing": 0,
